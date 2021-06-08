@@ -1,0 +1,43 @@
+,comment_id,comment_parent_id,comment_body,comment_link_id
+0,gh1ewn6,t3_kk8xee,So the author knows Computer Science And Security in addition to biology and genetics that’s cool,t3_kk8xee
+1,gh1g70z,t3_kk8xee,"This is crazy awesome, great find if you didn't write it. Great write up if you did!",t3_kk8xee
+2,gh1lk0n,t3_kk8xee,How great is this? Fantastic article!,t3_kk8xee
+3,gh1eg1a,t3_kk8xee,This was a fantastic read,t3_kk8xee
+4,gh18l24,t3_kk8xee,This is so awesome. OP are you the author?,t3_kk8xee
+5,gh2fddx,t3_kk8xee,Anyone know if selling a vaccine with that sequence would infringe intellectual property?,t3_kk8xee
+6,gh311lh,t3_kk8xee,I am waiting for code comparison of two mRNA we have - Pfizer/BioNTech vs Moderna,t3_kk8xee
+7,gh269n5,t3_kk8xee,"""The [people](https://twitter.com/goodwish916) that [discovered](https://twitter.com/KizzyPhD) this should be walking around high-fiving themselves incessantly.""
+
+Thanks for sharing this!",t3_kk8xee
+8,gh26t9y,t3_kk8xee,"Amazing article, thank a lot.",t3_kk8xee
+9,gh28l2q,t3_kk8xee,"Wow, this is an amazing article!",t3_kk8xee
+10,gh3413k,t3_kk8xee,"ok, DNA decompiler when? :D",t3_kk8xee
+11,gh5xyuv,t3_kk8xee,"If you liked this (wonderful) article as I did, you will definitely enjoy these presentations by the same author:
+
+https://berthub.eu/articles/posts/dna-the-code-of-life/",t3_kk8xee
+12,gh2nwy0,t3_kk8xee,This is indeed awesome. The author's analogies using OS concepts are so clear. Does anyone know where I can find more of them?,t3_kk8xee
+13,gh1vqs7,t3_kk8xee,amazing,t3_kk8xee
+14,gh1xt2j,t3_kk8xee,"Wow, it's like machine language.",t3_kk8xee
+15,gh22sei,t3_kk8xee,Really good!!!,t3_kk8xee
+16,gh25byx,t3_kk8xee,Really great article!!,t3_kk8xee
+17,ghhsj6p,t3_kk8xee,I wasn't this surprised for a long time. Great article!,t3_kk8xee
+18,gnyxnok,t3_kk8xee,Awesome job,t3_kk8xee
+19,gh233j3,t1_gh1ewn6,i'd kill to be proficient in one of those.,t3_kk8xee
+20,gh2w0ee,t1_gh1ewn6,I took biotechnology class this semester its cool stuff. There are courses on coursera,t3_kk8xee
+21,gjamec0,t1_gh1ewn6,"Damn polymaths, it's like come on guys save some of that talent for the rest of us XD",t3_kk8xee
+22,gh23qzz,t1_gh18l24,"Nope, saw it [on Twitter ](https://twitter.com/powerdns_bert/status/1342568484946010116?s=21).",t3_kk8xee
+23,gh2qfex,t1_gh2fddx,"Probably, because it is modified from what occurs naturally in a way that makes it original work. When the BRCA gene was discovered to be relevant to breast cancer, someone tried to patent it but was unable because it is already in everyone’s DNA! This vaccine code is a novel creation, so I would imagine it has IP protections.",t3_kk8xee
+24,gq740uk,t1_gh2fddx,yep,t3_kk8xee
+25,gh3vxfu,t1_gh3413k,"I've also sort of thought it would be cool to build a DNA fuzzer. Like I know it won't happen for a very very long time since we can't simulate these processes very well, but I'm sure we could find out so much just by rapidly trying things and observing the effects",t3_kk8xee
+26,gh3ghv2,t1_gh3413k,That is what folding@home is,t3_kk8xee
+27,gh27yvd,t1_gh233j3,Why not just study instead of killing,t3_kk8xee
+28,gh3wys4,t1_gh3vxfu,"well I could imagine its possible for a given dna string:
+
+- to detect decoded codons (easy)
+- detect the known segments (cap, 5UTR, sig, polyA... dunno are there more?)
+- 3UTR compare to other 3UTR's (as its not well known)
+- decode the protein encoding part to its 3d representation (isnt this like evaluating a random solution of folding@home?)
+
+if anyone has more information about this stuff or how to get into this field, id be really interested!",t3_kk8xee
+29,gh2evme,t1_gh27yvd,[deleted],t3_kk8xee
+30,gh3yux0,t1_gh2evme,"So, the work would kill him or her?",t3_kk8xee
